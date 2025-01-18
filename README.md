@@ -1,5 +1,5 @@
 ASUS UX410U VENTURA 13.6.7
-![screenshot](screenshot/imageFolder/screenshot.png)
+![screenshot](screenshot/imagefolder/screenshot.png)
 wifi ok
 usb ok
 touchpad ok
